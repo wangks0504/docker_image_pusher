@@ -1,5 +1,5 @@
 nginx
-mysql
+mysql:8.0
 redis
 rabbitmq
 #支持私库
