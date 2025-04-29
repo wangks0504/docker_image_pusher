@@ -2,7 +2,6 @@ nginx
 mysql:8.4.4
 redis
 rabbitmq
-sqlite
 rapidfort/microsoft-sql-server-2019-ib
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
